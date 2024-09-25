@@ -1,3 +1,7 @@
+#author: Samuel Nyberg
+#Date: 2024-09-25
+
+
 myList = []
 
 myList.append(input("ange dina värden")) 
@@ -14,3 +18,5 @@ elif c > 2 < 5:
     for i in range(11):
         b = int(x[4])*i
         print(f'{x[4]} * {i} = {b}')
+
+#Funkar ej men gav det mitt bästa försök :)
